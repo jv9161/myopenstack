@@ -354,3 +354,47 @@
   354  git config --list
   355  git init
   356  history > history.txt
+  357  git add history.txt
+  358  pwd
+  359  ls -l
+  360  chmod 755 history.txt
+  361  ls -l
+  362  git add history.txt
+  363  chmod 777 history.txt
+  364  git add history.txt
+  365  cat history.txt
+  366  git status
+  367  git commit -m 'Contains my CLI history'
+  368  pwd
+  369  cd ../
+  370  ls -l
+  371  ls -al
+  372  chmod 755 .config
+  373  ls -al
+  374  cd .config
+  375  ls -al
+  376  chmod 755 openstack
+  377  ls -al
+  378  cd openstack
+  379  ls -al
+  380  cd mod 755 clouds.yaml
+  381  cd ../../
+  382  pwd
+  383  cd -
+  384  cd ../
+  385  ls -l
+  386  cd myopenstack
+  387  git add history.txt
+  388  git status
+  389  git config --list
+  390  git init
+  391  history > history.txt
+  392  git add history.txt
+  393  git status
+  394  git commit -m 'Contains my CLI history'
+  395  ls -l
+  396* 
+  397  ls -l
+  398  git init
+  399  git add history.txt
+  400  history > history.txt
